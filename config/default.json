@@ -1,4 +1,4 @@
 {
-  "mongoURI": "PUT_YOUR_MONGO_URI",
+  "mongoURI": "mongodb://tai:t123456@ds355357.mlab.com:55357/mern_shopping",
   "jwtSecret": "sl_myJwtSecret"
 }
